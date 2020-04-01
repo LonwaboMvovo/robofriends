@@ -1,0 +1,9 @@
+.mobile {
+    display: none;
+  }
+  
+  @media screen and (max-width: 380px) {
+    .desktop {
+        display: none;
+    }
+  }
